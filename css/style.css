@@ -1119,7 +1119,7 @@ ol {
 
 .cta-text h2 {
 	font-size: 50px;
-	color: #ffffff;
+	color: #000000;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 15px;
@@ -1128,7 +1128,7 @@ ol {
 .cta-text p {
 	font-size: 17px;
 	line-height: 30px;
-	color: #ffffff;
+	color: #000000;
 	margin-bottom: 30px;
 }
 
